@@ -9,7 +9,9 @@
 
 ## Overview
 
-This repository demonstrates how to implement **AWS Cognito authentication** in a **Next.js** application. It uses **AWS Amplify** to simplify the integration of Cognito services with the app. This is an example where users can sign up, sign in, and log out, all while utilizing **Cognito** as the authentication provider.
+Implementation of AWS Cognito authentication in a Next.js application.
+
+Uses AWS Amplify to simplify integration with Cognito services. Users can sign up, sign in, and log out while utilizing Cognito as the authentication provider.
 
 ## Features
 
